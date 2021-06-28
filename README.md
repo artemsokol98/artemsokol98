@@ -1,3 +1,5 @@
+(https://raw.githubusercontent.com/artemsokol98/artemsokol98/main/sierra.jpeg)
+
 ### Hi there, I'm Artem 👋
 
 <!--
