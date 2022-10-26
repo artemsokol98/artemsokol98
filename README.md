@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on application for iPhone
-- 🌱 I’m currently learning iOS development
+- 🌱 I’m a Middle iOS Developer and looking for job-opportunities.
 
 <!--
 - 👯 I’m looking to collaborate on ...
